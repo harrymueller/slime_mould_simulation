@@ -1,0 +1,40 @@
+.
+├── gradient
+│   ├── __init__.py
+│   ├── accessors.py
+│   ├── bbox.py
+│   ├── config.py
+│   ├── haversine.py
+│   └── main.py
+├── haversine.py
+├── london_tube
+│   ├── __init__.py
+│   ├── data.py
+│   ├── graph.py
+│   ├── haversine.py
+│   └── main.py
+├── mst
+│   ├── __init__.py
+│   ├── haversine.py
+│   └── main.py
+├── performance
+│   ├── __init__.py
+│   └── main.py
+├── run.py
+├── sigmoid.py
+├── slime
+│   ├── __init__.py
+│   ├── config.py
+│   ├── libs
+│   │   └── __init__.py
+│   ├── main.py
+│   └── methods
+│       ├── bbox.py
+│       ├── displaying.py
+│       ├── growing.py
+│       ├── haversine.py
+│       ├── helpers.py
+│       └── trim.py
+└── slime_mould_simulation.ipynb
+
+7 directories, 30 files
